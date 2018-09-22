@@ -39,7 +39,7 @@ kaarsrechte brede fietssnelwegen zonder bagage of passagier. Dat hobbeltje dat b
 
 [4] Vergeten deel reis, plus effectieve reistijd:
 =================================================
-Dingen als tanken, banden oppompen, reparatie, en het terugverdienen van de all-in kosten van onze heilige koe en/of stalen ros, heeft Thalia al uitvoerig behandeld in https://decorrespondent.nl/8416/waarom-de-fiets-veel-sneller-is-dan-je-denkt-en-de-auto-veel-trager/884917783200-095bef5c. De tijd om te parkeren (zoeken, manouvreren, betalen, wandelen) bij A en B wil ik hier nog extra noemen, omdat die iedere rit van toepassing is. Ook als B slechts een overstappunt is naar een volgende vervoersmodus naar C. Dan is het bijvoorbeeld misschien wel veel makkelijker om met je vouwfiets zo het perron op te fietsen (ik bedoel natuurlijk wandelen met de fiets aan de hand :-) )
+Dingen als tanken, banden oppompen, reparatie, en het terugverdienen van de all-in kosten van onze heilige koe en/of stalen ros, heeft Thalia al uitvoerig behandeld in https://decorrespondent.nl/8416/waarom-de-fiets-veel-sneller-is-dan-je-denkt-en-de-auto-veel-trager/884917783200-095bef5c. De tijd om te parkeren (zoeken, manouvreren, betalen, wandelen) bij A en B wil ik hier nogmaals noemen, omdat die iedere rit van toepassing is. Ook als B slechts een overstappunt is naar een volgende vervoersmodus naar C. Dan is het bijvoorbeeld misschien wel veel makkelijker om met je vouwfiets zo het perron op te fietsen (ik bedoel natuurlijk wandelen met de fiets aan de hand :-) )
 
 Bovenstaande stukje tekst zal autogebruik weinig verminderen, tenzij ...
 ========================================================================
