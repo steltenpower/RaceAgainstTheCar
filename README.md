@@ -19,7 +19,7 @@ Ga eens de deur-tot-deur tijd meten (pas op: sommige fietscomputers meten alleen
 
 [2] Onderschatten/vergeten vertraging door standaard drukte (vooral bij auto's):
 ================================================================================
-Bovenstaand is als er nauwelijks ander verkeer is en dat is zeldzaam. De meeste mensen willen namelijk rijden als de meeste mensen willen rijden. Dan haal je zeker in de auto maar weinig de maximaal toegestane 
+Eerder genoemde schatting gaat uit van nauwelijks ander verkeer en dat is zeldzaam. De meeste mensen willen namelijk rijden als de meeste mensen willen rijden. Dan haal je zeker in de auto maar weinig de maximaal toegestane 
 snelheid. En met veel haast houdt je te weinig afstand tot je voorganger, moet je regelmatig remmen, dat 
 zeker met appende bestuurders snel tot files lijdt. En dan hebben we het nog niet eens over afritten, 
 kruispunten, etc. Fietsers hebben hier overigens minder last van, die staan niet stil in een file, maar 
@@ -35,7 +35,7 @@ e-bikes, pedelecs en ook zonder trapondersteuning gaan moderne fietsen een stuk 
 halve eeuw geleden. Vroeger was de vuistregel dat een 'gewone' fiets ongeveer 15 km/u gaat, maar 25 is 
 het nieuwe 15. Dat levert ook extra risico's, die grotendeels zijn op te lossen door er aan te wennen 
 en door infrastructuur er op aan te passen (We fietsen niet alleen overdag bij windstil weer op droge 
-kaarsrechte brede fietssnelwegen zonder bagage of passagier. Dat hobbeltje dat bij 15 flink oncomfortabel is, wordt bij 25 al snel gevaarlijk, want bijna 3 maal de bewegingsenergie)
+kaarsrechte brede fietssnelwegen zonder bagage of passagier. Dat hobbeltje dat bij 15 flink oncomfortabel is, wordt bij 25 al snel gevaarlijk, want even vergetend dat e-bikes ook nog zwaarder zijn kom je al op bijna 3 maal de bewegingsenergie)
 
 [4] Vergeten deel reis, plus effectieve reistijd:
 =================================================
