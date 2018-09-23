@@ -44,7 +44,7 @@ Bovenstaande stukje tekst zal autogebruik weinig verminderen, tenzij ...
 Wat mogelijke richtingen:
 - Alan Smith (toen werkend voor Office for National Statistics) zei in een presentatie over 
 datavisualisatie informatie dicht bij mensen te brengen. Geef ze niet alleen de landelijke gemiddeldes, 
-maar ook de waarden over hun eigen buurt, of nog beter: laat ze die eerst raden, want een concreet gemaakt verschil helpt het leerproces.
+maar ook de waarden over hun eigen buurt, of nog beter: laat ze die eerst raden, want een concreet gemaakt verschil met de werkelijkheid helpt het leerproces.
 - Vaak gaat onze menselijke informatieverwerking slechts via ogen en hersenen. Maar hoe meer je van je 
 lichaam inzet, hoe beter het binnenkomt en blijft hangen.
 - Verandering en interactie houdt de aandacht er langer bij.
