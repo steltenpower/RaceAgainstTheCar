@@ -53,7 +53,7 @@ lichaam inzet, hoe beter het binnenkomt en blijft hangen.
 Even op de pedalen, een idee voor een ingedikte wedstrijd:
 ==========================================================
 Bovenstaande analyse inspireerde tot het volgend functioneel ontwerp in grote lijnen:
-Al fietsend, echt of wat veiliger op een hometrainer, voortdurend op je smartphone/scherm zien hoe je huidige snelheid zich vertaald in reistijd en hoe die zich verhoudt tot die van een auto met meenemen van zo veel mogelijk doorgaans vergeten factoren: Middels isochronen [contouren die rond een middelpunt alle punten van gelijke reistijd verbinden] voor de fiets die meeveranderen met de snelheid en dan een groene waas leggen over het deel van de kaart waarvoor je het wint van de auto.
+Al fietsend, echt of wat veiliger op een hometrainer, voortdurend op je smartphone/scherm zien hoe je huidige snelheid zich vertaalt in reistijd. En hoe die zich verhoudt tot die van een auto met meenemen van zo veel mogelijk doorgaans vergeten factoren: Middels isochronen [contouren die rond een middelpunt alle punten van gelijke reistijd verbinden] voor de fiets die meeveranderen met de snelheid en dan een groene waas leggen over het deel van de kaart waarvoor je het wint van de auto.
 
 Implementatie, help je mee?:
 ============================
