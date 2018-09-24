@@ -13,7 +13,7 @@ Nadenkend waar dat aan kan liggen kwam ik o.a. op:
 [1] Overschatten effect topsnelheid op reistijd:
 ================================================
 Ik hoor meermaals een schatting lijkend op "afstand gedeeld door 140 plus een handjevol minuten". Je 
-auto overdrijft z'n snelheid echter iets (dat bespaart bekeuringen) en dat eerste en laatste stukje 
+auto overdrijft z'n snelheid echter iets (dat bespaart bekeuringen), maar vooral dat eerste en laatste stukje 
 waar je vaak maar 30 mag, of 50 met stoplichten neemt veel meer dan een handjevol minuten.
 Ga eens de deur-tot-deur tijd meten (pas op: sommige fietscomputers meten alleen de tijd dat je rijdt)
 
