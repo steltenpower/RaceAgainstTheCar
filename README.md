@@ -69,4 +69,7 @@ Wat nou, als de fiets het (nog) niet wint?:
 Wint thuiswerken, of de fiets het voor jou nog niet van de auto voor deze bestemming?<br>
 En als je het nou combineert met de trein, zoals miljoenen andere treinfietsers in Nederland doen? ...<br>
 En als ook jouw werkgever danwel woonplaats erachter komt dat al die autoparkeerplaatsen veel te duur zijn voor hen en dus flink duurder en verder weg gaan worden voor automobilisten (lees ... )<br>
+
+Of als je niet fietsen wilt?
+============================
 Als je denkt mij krijgen ze toch niet uit de auto heb ik ook nog een tip: De snelste en goedkoopste manier om door te kunnen rijden is niet meer asfalt voor auto's, maar minder auto's: dus stimuleer anderen (o.a. via je politieke stem) om te gaan fietsen.
