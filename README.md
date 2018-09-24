@@ -33,7 +33,7 @@ hopelijk vergelijkbare momenten. Maar dan moet je wel daadwerkelijk die begin- o
 e-bikes, pedelecs en ook zonder trapondersteuning gaan moderne fietsen een stuk sneller dan die van een 
 halve eeuw geleden. Vroeger was de vuistregel dat een 'gewone' fiets ongeveer 15 km/u gaat, maar 25 is 
 het nieuwe 15. Dat levert ook extra risico's, die grotendeels zijn op te lossen door er aan te wennen 
-en door infrastructuur er voldoende op aan te passen. We fietsen namelijk niet alleen overdag bij windstil weer zonder bagage of passagier op droge kaarsrechte brede fietssnelwegen (die overigens ongeveer net zo breed zijn als slechts 1 rijbaan op een autosnelweg). Zo is dat hobbeltje dat bij 15 flink oncomfortabel is, bij 25 al snel gevaarlijk, want even vergetend dat e-bikes ook nog zwaarder zijn kom je al op bijna 3 maal de bewegingsenergie)
+en door infrastructuur er voldoende op aan te passen. We fietsen namelijk niet alleen overdag bij windstil weer zonder bagage of passagier op droge kaarsrechte brede fietssnelwegen (die overigens ongeveer net zo breed zijn als slechts 1 rijbaan op een autosnelweg). Zo is dat hobbeltje dat bij 15 flink oncomfortabel is, bij 25 al snel gevaarlijk, want zelfs even vergetend dat e-bikes ook nog zwaarder zijn kom je al op bijna 3 maal de bewegingsenergie)
 
 [4] Vergeten deel reis, plus effectieve reistijd:
 =================================================
