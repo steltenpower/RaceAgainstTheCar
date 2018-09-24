@@ -26,7 +26,7 @@ kruispunten, etc. Fietsers hebben hier overigens minder last van, die staan niet
 rijden er langs en hoeven ook bijna nooit te wachten op 'de volgende groen', kunnen eventueel met 
 afstappen doorgaans gewoon door bij opbrekingen of een stukje afsnijden door voetgangersgebied.
 Sommige planners schatten tegenwoordig de reistijd in adhv hoe lang anderen daar eerder over deden op 
-hopelijk vergelijkbare momenten. Maar dan moet je wel daadwerkelijk die tijd instellen ...
+hopelijk vergelijkbare momenten. Maar dan moet je wel daadwerkelijk die begin- of eindtijd instellen ...
 
 [3] Onderschatten snelheid fietser:
 ===================================
