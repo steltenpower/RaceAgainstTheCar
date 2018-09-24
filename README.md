@@ -50,7 +50,7 @@ lichaam inzet, hoe beter het binnenkomt en blijft hangen.
 - Verandering en interactie houdt de aandacht er langer bij.
 - Veel mensen willen graag winnen. Maak er een spelletje van
 
-Even op de pedalen, een idee voor wedstrijdje:
+Even op de pedalen; idee voor een wedstrijdje:
 ==========================================================
 Bovenstaande analyse inspireerde tot het volgend functioneel ontwerp in grote lijnen:
 Al fietsend, echt of wat veiliger op een hometrainer, voortdurend op je smartphone/scherm zien hoe je huidige snelheid zich vertaalt in reistijd. En hoe die zich verhoudt tot die van een auto met meenemen van zo veel mogelijk doorgaans vergeten factoren: Middels isochronen (contouren van gelijke reistijd), die in het geval van de fiets meeveranderen met de huidige snelheid. Liefst aangevuld met een meebewegende groene markering over het deel van de kaart waarvoor je het wint van de auto.
