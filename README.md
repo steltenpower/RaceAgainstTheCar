@@ -57,17 +57,16 @@ Al fietsend, echt of wat veiliger op een hometrainer, voortdurend op je smartpho
 
 Aannames bij berekening:
 ========================
-De tijd benodigd om je fiets te parkeren is heel laag in NL, want fietsenstalling is dichtbij en/of op stoep mag en kan doorgaans worden geparkeerd. Het opladen van een e-bike doe je doorgaans bijna gratis in je schuurtje thuis terwijl je slaapt. Beiden opgeteld strepen we deze weg* tegen de tijd die een automobilist gemiddeld kwijt is aan parkeerplaats zoeken, plus ook nog tanken (incl. eventueel omrijden, betalen, etc.). Eigenlijk hebben we nog veel meer tijd weggelaten. Een beetje als je qua tijd het gehele bezit en gebruik van een fiets danwel auto meetelt: aanschaf, onderhoud/reparatie, administratie. Een HELEBOEL als je ook de tijd meetelt voor het terugverdienen van alle kosten (aanschaf/afschrijving, onderhoud/reparatie, parkeren, tanken, wegenbelasting, verzekering, pechhulp, boetes). Dit betekent voor menigeen dat je zonder auto een dag in de week minder hoeft te werken. De berekening kan je nalezen in ... van Thalia Verkade en aanpassen naar je eigen situatie.<br>
-
-Wat nou, als de fiets het (nog) niet wint?:
-=========================================
-Wint thuiswerken, of de fiets het voor jou nog niet van de auto voor deze bestemming?<br>
-En als je het nou combineert met de trein, zoals miljoenen andere treinfietsers in Nederland doen? ...<br>
-<br>
-En als je werkgever de parkeerplaats verkoopt? of per dag laat betalen?<br>
-<br>
-Als je denkt mij krijgen ze toch niet uit de auto heb ik ook nog een tip: De snelste en goedkoopste manier om door te kunnen rijden is niet meer asfalt voor auto's, maar minder auto's: dus stimuleer anderen (o.a. via je politieke stem) om te gaan fietsen.
+De tijd benodigd om je fiets te parkeren is heel laag in NL, want fietsenstalling is dichtbij en/of op stoep mag en kan doorgaans worden geparkeerd. Het opladen van een e-bike doe je doorgaans bijna gratis in je schuurtje thuis terwijl je slaapt. Beiden opgeteld strepen we deze weg tegen de tijd die een automobilist gemiddeld kwijt is aan parkeerplaats zoeken, plus ook nog tanken (incl. eventueel omrijden, betalen, etc.). We negeren dan ook nog tijd voor aanschaf, onderhoud/reparatie, administratie om nog maar niet te spreken over de tijd die je nodig hebt om alle kosten terug te verdienen. Menigeen blijkt een dag in de week voor de auto te werken. Een preciezere berekening kan je nalezen in ... van Thalia Verkade en aanpassen naar je eigen situatie.<br>
 
 Implementatie, help je mee?:
 ============================
 Een dashboard met wat default parameters die je kunt aanpassen, met daarnaast een kaart die wat lijkt op die op https://medium.com/@Urbica.co/hello-galton-e6e07a7164b7#effa en waarop je locaties kunt aangeven waar mee gerekend wordt. En dan zo'n hometrainer on tour langs verschillende grote werknemers om mensen aan het fietsen te zetten. Help je het mee realiseren? Programmeren en geo-dingen zijn ondanks wat ervaring, namelijk geen dagelijkse routine voor me. Input is welkom op https://github.com/steltenpower/ParkerenOfDemarreren , waar naast deze tekst ook een schets van de beoogde gebruikersinterface (.html bestand) en daarvan een (doorgaans wat achterlopend) screenshot (.png bestand).
+
+
+Wat nou, als de fiets het (nog) niet wint?:
+===========================================
+Wint thuiswerken, of de fiets het voor jou nog niet van de auto voor deze bestemming?<br>
+En als je het nou combineert met de trein, zoals miljoenen andere treinfietsers in Nederland doen? ...<br>
+En als ook jouw werkgever danwel woonplaats erachter komt dat al die autoparkeerplaatsen veel te duur zijn voor hen en dus flink duurder en verder weg gaan worden voor automobilisten (lees ... )<br>
+Als je denkt mij krijgen ze toch niet uit de auto heb ik ook nog een tip: De snelste en goedkoopste manier om door te kunnen rijden is niet meer asfalt voor auto's, maar minder auto's: dus stimuleer anderen (o.a. via je politieke stem) om te gaan fietsen.
