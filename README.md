@@ -73,3 +73,7 @@ En als ook jouw werkgever danwel woonplaats erachter komt dat al die autoparkeer
 Of als je niet fietsen wilt?
 ============================
 Als je denkt mij krijgen ze toch niet uit de auto heb ik ook nog een tip: De snelste en goedkoopste manier om door te kunnen rijden is niet meer asfalt voor auto's, maar minder auto's: dus stimuleer anderen (o.a. via je politieke stem) om te gaan fietsen.
+
+Low-tech alternatief, dat veel breder ingezet kan worden:
+=========================================================
+Een print optie aanbieden en vervolgens iedere eigenaar van een gebouw waar veel mensen (nog) met de auto komen aanschrijven om die te printen op of A0 (liefst gratis via sponsoring) aan te vragen om vervolgens op tactische plek(ken) op te hangen en ook de link breed door te sturen (met het verzoek eventuele missende fietsdoorsteekjes toe te voegen op openstreetmap.org )
