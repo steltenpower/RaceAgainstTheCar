@@ -78,3 +78,5 @@ Als je denkt mij krijgen ze toch niet uit de auto heb ik ook nog een tip: De sne
 Low-tech alternatief, dat veel breder ingezet kan worden:
 =========================================================
 Een print optie aanbieden en vervolgens iedere eigenaar van een gebouw waar veel mensen (nog) met de auto komen aanschrijven om die te printen op of A0 (liefst gratis via sponsoring) aan te vragen om vervolgens op tactische plek(ken) op te hangen en ook de link breed door te sturen (met het verzoek eventuele missende fietsdoorsteekjes toe te voegen op openstreetmap.org )
+
+maybe useful: https://www.omnicalculator.com/ecology/car-vs-bike
