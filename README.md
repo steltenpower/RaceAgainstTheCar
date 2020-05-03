@@ -64,7 +64,8 @@ De tijd benodigd om je fiets te parkeren is heel laag in NL, want fietsenstallin
 
 Implementatie, help je mee?:
 ============================
-Een kaartje vergelijkbaar met dat op https://medium.com/@Urbica.co/hello-galton-e6e07a7164b7#effa waarvoor je dus de snelheid door te trappen varieert, of gewoon met een schuifje. En dan met hometrainer (heb een Tacx) on tour langs verschillende grote werknemers om mensen aan het fietsen te zetten. Help je het mee realiseren? Programmeren en geo-dingen zijn ondanks wat ervaring, namelijk geen dagelijkse routine voor me. Input is welkom via "issues" hier op https://github.com/steltenpower/ParkerenOfDemarreren , waar naast deze tekst ook een schets van de beoogde gebruikersinterface (.html bestand) en daarvan een (doorgaans wat achterlopend) screenshot (.png bestand).
+Een kaartje vergelijkbaar met dat op https://medium.com/@Urbica.co/hello-galton-e6e07a7164b7#effa waarvoor je dus de snelheid door te trappen varieert, of gewoon met een schuifje. En dan met hometrainer (heb een Tacx) on tour langs verschillende grote werknemers om mensen aan het fietsen te zetten. Help je het mee realiseren? Programmeren en geo-dingen zijn ondanks wat ervaring, namelijk geen dagelijkse routine voor me. Input is welkom via "issues" hier op https://github.com/steltenpower/ParkerenOfDemarreren , waar naast deze tekst ook een schets van de beoogde gebruikersinterface (.html bestand) en daarvan een (doorgaans wat achterlopend) screenshot:
+![ugly sketch of UI](https://raw.githubusercontent.com/steltenpower/RaceAgainstTheCar/master/screenshot_UserInterface.png)
 
 
 Wat nou, als de fiets het (nog) niet wint?:
