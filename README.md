@@ -85,3 +85,5 @@ Een print optie aanbieden en vervolgens iedere eigenaar van een gebouw waar veel
 
 maybe useful: https://www.omnicalculator.com/ecology/car-vs-bike
 I already got a https://tacx.com/ bike for hardware
+https://openrouteservice.org/
+https://www.iso4app.net/net/
