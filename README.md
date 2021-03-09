@@ -87,3 +87,4 @@ maybe useful: https://www.omnicalculator.com/ecology/car-vs-bike
 I already got a https://tacx.com/ bike for hardware
 https://openrouteservice.org/
 https://www.iso4app.net/net/
+https://osmnx.readthedocs.io/en/stable/
