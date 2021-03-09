@@ -83,14 +83,10 @@ Low-tech alternatief, dat veel breder ingezet kan worden:
 =========================================================
 Een print optie aanbieden en vervolgens iedere eigenaar van een gebouw waar veel mensen (nog) met de auto komen aanschrijven om die te printen op of A0 (liefst gratis via sponsoring) aan te vragen om vervolgens op tactische plek(ken) op te hangen en ook de link breed door te sturen (met het verzoek eventuele missende fietsdoorsteekjes toe te voegen op openstreetmap.org ). Hier alvast de adresssen van alle basisscholen, want daar begint de gekkigheid van auto als default: https://www.duo.nl/open_onderwijsdata/databestanden/po/adressen/adressen-po-3.jsp
 
-maybe useful: [car/bike ecological comparison](https://www.omnicalculator.com/ecology/car-vs-bike)
-
-I already got a [Tacx](https://tacx.com/) bike for hardware
-
-[openrouteservice.org](https://openrouteservice.org/)
-
-[iso4app.net](https://www.iso4app.net/net/)
-
-[osmnx](https://osmnx.readthedocs.io/en/stable/)
-
-[my isochrone question on GIS StackExchange](https://gis.stackexchange.com/questions/389494/how-to-osm-isochrone-center-transportmode-maxspeed-time-color-transparency)
+maybe useful:
+-[car/bike ecological comparison](https://www.omnicalculator.com/ecology/car-vs-bike)
+- I already got a [Tacx](https://tacx.com/) bike for hardware
+- [openrouteservice.org](https://openrouteservice.org/)
+- [iso4app.net](https://www.iso4app.net/net/)
+- [osmnx](https://osmnx.readthedocs.io/en/stable/)
+- [my isochrone question on GIS StackExchange](https://gis.stackexchange.com/questions/389494/how-to-osm-isochrone-center-transportmode-maxspeed-time-color-transparency)
