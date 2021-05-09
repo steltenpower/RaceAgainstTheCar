@@ -7,7 +7,7 @@ Navigation systems often treat cars like taxis; not taking parking into account.
 Comparing isochrones ...
 ========================
 Isochrones are lines showing how far you can get in any direction in a certain timespan, from a specific start point.
-Maybe locations where loads of people come by car not knowing bikes are faster for their situation (e.g. [Dutch elementary schools](https://www.duo.nl/open_onderwijsdata/databestanden/po/adressen/adressen-po-3.jsp), need a big image with several competing isochrones on its wall, website and Google Maps pin (just dream, right).
+Maybe locations where loads of people come by car not knowing bikes are faster for their situation (e.g. [Dutch elementary schools](https://www.duo.nl/open_onderwijsdata/databestanden/po/adressen/adressen-po-3.jsp)), need a big image with several competing isochrones on its wall, website and Google Maps pin (just dream, right).
 Though cars all go as fast as the vehicle in front, or what the road allows, there's a huge variation in how fast (e-)bikes go.
 
 ... Interactively
