@@ -2,7 +2,7 @@
 <img src="https://repository-images.githubusercontent.com/145345464/710bf900-7a04-11eb-8f2f-e5b9ec73c6b2">
 Many people work a day a week to pay their car, but here I'll only focus on traveling time of cars compared to bikes.
 Highest topspeed doesn't always mean lowest travel time from A to B, especially during rush hour, or in city centres.
-Navigation systems often treat cars like taxis; not taking parking into account. Let's try to compensate for that.
+Navigation systems often treat cars like taxis; not taking parking into account. This will try better.
 
 Comparing isochrones ...
 ========================
