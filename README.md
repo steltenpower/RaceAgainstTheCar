@@ -19,9 +19,8 @@ If you can't win by bike yet
 ============================
 The fastest option might be walking into your homeoffice or garden with your notebook or VRglasses, but as biking is healthy exercise you could also combine it with taking a train. Shorter driving times are helped by less cars a lot more than by expensive extra car infrastructure, so either way vote for bike-friendly parties.
 
-
-
 Towards implementation:
+=======================
 - [car/bike ecological comparison](https://www.omnicalculator.com/ecology/car-vs-bike)
 - I have a [Tacx](https://tacx.com/) hometrainer bike
 - [openrouteservice.org](https://openrouteservice.org/)
