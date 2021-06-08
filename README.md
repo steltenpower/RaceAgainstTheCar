@@ -29,3 +29,7 @@ Towards implementation:
 - [osmnx](https://osmnx.readthedocs.io/en/stable/)
 - [my isochrone question on GIS StackExchange](https://gis.stackexchange.com/questions/389494/how-to-osm-isochrone-center-transportmode-maxspeed-time-color-transparency)
 - https://medium.com/@Urbica.co/hello-galton-e6e07a7164b7#effa
+
+Possible interested parties:
+============================
+- beterbenutten.nl/regios/twente
