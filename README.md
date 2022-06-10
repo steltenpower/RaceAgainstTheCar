@@ -13,7 +13,7 @@ Though cars all go as fast as the vehicle in front, or what the road allows, the
 ... Interactively
 =================
 Higher speeds give bigger isochrones; So what if instead of the static isochrones on the wall you connect a (big) screen to a (hometrainer) bike?
-To make the map easier to read overlap it with a green transparent layer for destinations that are quicker to reach by bike.
+To make the map easier to read overlap it with a green transparent layer for destinations that are quicker to reach by bike, and red otherwise. Possibly different shades of these colors for every minute in difference.
 
 If you can't win by bike yet
 ============================
