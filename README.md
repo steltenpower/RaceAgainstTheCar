@@ -1,4 +1,4 @@
-# RaceAgainstTheCar
+No# RaceAgainstTheCar
 <img src="https://repository-images.githubusercontent.com/145345464/710bf900-7a04-11eb-8f2f-e5b9ec73c6b2">
 Many people work a day a week to pay their car, but here I'll only focus on traveling time of cars compared to bikes.
 Highest topspeed doesn't always mean lowest travel time from A to B, especially during rush hour, or in city centres.
@@ -34,4 +34,7 @@ Possible interested parties:
 ============================
 - beterbenutten.nl/regios/twente
 - 
+
 https://www.tubantia.nl/enschede-e-o/goan-nieuwe-reisapp-voor-twente-regelt-vervoer-van-deur-tot-deur~a18f9f54/
+
+https://www.bloomberg.com/news/features/2022-07-30/how-ai-is-giving-real-world-streets-a-virtual-makeover
