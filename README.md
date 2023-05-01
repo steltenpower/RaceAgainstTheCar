@@ -1,19 +1,26 @@
-No# RaceAgainstTheCar
+# RaceAgainstTheCar
+
 <img src="https://repository-images.githubusercontent.com/145345464/710bf900-7a04-11eb-8f2f-e5b9ec73c6b2">
-Many people work a day a week to pay their car, but here I'll only focus on traveling time of cars compared to bikes.
-Highest topspeed doesn't always mean lowest travel time from A to B, especially during rush hour, or in city centres.
-Navigation systems often treat cars like taxis; not taking parking into account. This will try better.
+Many people work a day a week to pay for their car, but here I'll only focus on traveling time of cars compared to bicycles.
+I often found myself faster by bike, while planners like Google Maps predicted differently, which made me wonder why.
+The top speed of cars is of course higher than that of bikes, but never reached. Modern car navigation not only takes maximum allowed speeds into account, but also delay because of traffic, however not parking and additional travel in a different mode, which makes it taxi navigation. What's also often not taken into account is that people on bicycles have a wider range of cruise speeds nowadays.
 
 Comparing isochrones ...
 ========================
 Isochrones are lines showing how far you can get in any direction in a certain timespan, from a specific start point.
-Maybe locations where loads of people come by car not knowing bikes are faster for their situation (e.g. [Dutch elementary schools](https://www.duo.nl/open_onderwijsdata/databestanden/po/adressen/adressen-po-3.jsp)), need a big image with several competing isochrones on its wall, website and Google Maps pin (just dream, right).
-Though cars all go as fast as the vehicle in front, or what the road allows, there's a huge variation in how fast (e-)bikes go.
+For a specific bicycle cruise speed the isochrones can be combined with those of the car into lines where one mode overtakes the other. Now there are 2 choices for adding additional lines:
+- Lines that show time differences for the same bicycle cruise speed. Which results in a different image for every speed.
+- Lines that show other bicycle cruise speeds where they pass cars. Which results in 1 static image.
+Both options are nice measures for 'the race against the car'.
 
-... Interactively
-=================
-Higher speeds give bigger isochrones; So what if instead of the static isochrones on the wall you connect a (big) screen to a (hometrainer) bike?
-To make the map easier to read overlap it with a green transparent layer for destinations that are quicker to reach by bike, and red otherwise. Possibly different shades of these colors for every minute in difference.
+Staticly ...
+=============
+Put such a static picture under the nose of drivers, especially where they mingle, hoping to start a discussion. Perhaps a giant print above the door of elementary schools, for waiting parents to see. Or on the floor of a big in- or outdoor playing space of that same school. Or similar spots at big employers
+
+... or Interactively
+====================
+The more your brain and body interacts with information, and the more it is connected to face or place, the better it sticks. Maybe hook up the speed of a (hometrainer) bike to control the speed-dependent image?
+
 
 If you can't win by bike yet
 ============================
