@@ -45,3 +45,9 @@ Possible interested parties:
 https://www.tubantia.nl/enschede-e-o/goan-nieuwe-reisapp-voor-twente-regelt-vervoer-van-deur-tot-deur~a18f9f54/
 
 https://www.bloomberg.com/news/features/2022-07-30/how-ai-is-giving-real-world-streets-a-virtual-makeover
+
+Other bike ideas:
+=================
+- Martin Vossebeld uit Borne ontwierp zelf een blits driewielig voertuig, de Joiny https://www.tubantia.nl/hengelo/ms-patient-martin-is-trots-op-zijn-sportieve-driewieler-zo-n-scootmobiel-maakt-je-meteen-10-jaar-ouder~a0f0b5a2/
+- Fiets met ondersteuning op luchtdruk?
+- Cargobike with shadow and solar energy
