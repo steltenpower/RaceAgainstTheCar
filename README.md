@@ -15,7 +15,7 @@ Both options are nice measures for 'the race against the car'.
 
 Staticly ...
 =============
-Put such a static picture under the nose of drivers, especially where they mingle, hoping to start a discussion. Perhaps a giant print above the door of elementary schools, for waiting parents to see. Or on the floor of a big in- or outdoor playing space of that same school. Or similar spots at big employers
+Put such a static picture under the nose of drivers, especially where they mingle, hoping to start a discussion. Perhaps a giant print above the door of <a href="https://duo.nl/open_onderwijsdata/primair-onderwijs/scholen-en-adressen/">elementary schools</a>, for waiting parents to see. Or on the floor of a big in- or outdoor playing space of that same school. Or similar spots at big employers
 
 ... or Interactively
 ====================
