@@ -3,7 +3,7 @@
 <img src="https://repository-images.githubusercontent.com/145345464/710bf900-7a04-11eb-8f2f-e5b9ec73c6b2">
 Many people work a day a week to pay for their car, but here I'll only focus on traveling time of cars compared to bicycles.
 I often found myself faster by bike, while planners like Google Maps predicted differently, which made me wonder why.
-The top speed of cars is of course higher than that of bikes, but never reached. Modern car navigation not only takes maximum allowed speeds into account, but also delay because of traffic, however not parking and additional travel in a different mode, which makes it taxi navigation. What's also often not taken into account is that people on bicycles have a wider range of cruise speeds nowadays.
+The top speed of cars is of course higher than that of bikes, but never reached. Regular modern car navigation takes maximum allowed speeds into account and delay because of traffic. Time to park and additional travel because of it is normally not taken into account, which makes it taxi navigation. What's also often not taken into account is that people on bicycles have a wider range of cruise speeds nowadays. This project will try to compensate for these omissions.
 
 Comparing isochrones ...
 ========================
@@ -15,7 +15,7 @@ Both options are nice measures for 'the race against the car'.
 
 Staticly ...
 =============
-Put such a static picture under the nose of drivers, especially where they mingle, hoping to start a discussion. Perhaps a giant print above the door of <a href="https://duo.nl/open_onderwijsdata/primair-onderwijs/scholen-en-adressen/">elementary schools</a>, for waiting parents to see. Or on the floor of a big in- or outdoor playing space of that same school. Or similar spots at big employers
+Put such a static picture under the nose of drivers, especially where they mingle, hoping to start a discussion. Perhaps a giant print above the door of <a href="https://duo.nl/open_onderwijsdata/primair-onderwijs/scholen-en-adressen/">all elementary schools</a>, for waiting parents to see. Or on the floor of a big in- or outdoor playing space of that same school. Or similar spots at big employers
 
 ... or Interactively
 ====================
