@@ -40,14 +40,12 @@ Towards implementation:
 Possible interested parties:
 ============================
 - beterbenutten.nl/regios/twente
-- 
-
-https://www.tubantia.nl/enschede-e-o/goan-nieuwe-reisapp-voor-twente-regelt-vervoer-van-deur-tot-deur~a18f9f54/
-
-https://www.bloomberg.com/news/features/2022-07-30/how-ai-is-giving-real-world-streets-a-virtual-makeover
+- https://www.tubantia.nl/enschede-e-o/goan-nieuwe-reisapp-voor-twente-regelt-vervoer-van-deur-tot-deur~a18f9f54/
+- https://www.bloomberg.com/news/features/2022-07-30/how-ai-is-giving-real-world-streets-a-virtual-makeover
 
 Other bike ideas:
 =================
-- Martin Vossebeld uit Borne ontwierp zelf een blits driewielig voertuig, de Joiny https://www.tubantia.nl/hengelo/ms-patient-martin-is-trots-op-zijn-sportieve-driewieler-zo-n-scootmobiel-maakt-je-meteen-10-jaar-ouder~a0f0b5a2/
-- Fiets met ondersteuning op luchtdruk?
+- A threeweeler bike that can takes turns fast Joiny https://www.tubantia.nl/hengelo/ms-patient-martin-is-trots-op-zijn-sportieve-driewieler-zo-n-scootmobiel-maakt-je-meteen-10-jaar-ouder~a0f0b5a2/
+- Cycling supported by air pressure
 - Cargobike with shadow and solar energy
+- An ultralight body/tent around your bike to make it look like rediculous sized cars like for example a Ram Van or a F-150
