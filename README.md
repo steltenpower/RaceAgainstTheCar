@@ -3,7 +3,7 @@
 <img src="https://repository-images.githubusercontent.com/145345464/710bf900-7a04-11eb-8f2f-e5b9ec73c6b2">
 Many people work a day a week to pay for their car, but here I'll only focus on traveling time of cars compared to bicycles.
 I often found myself faster by bike, while planners like Google Maps predicted differently, which made me wonder why.
-The top speed of cars is of course higher than that of bikes, but never reached. Regular modern <b>car navigation</b> takes maximum allowed speeds into account and delay because of traffic. However time to park and additional travel because of it is normally not taken into account, so it <b>is unrealistic taxi navigation</b>. What's also often not taken into account is that people on bicycles have a wider range of cruise speeds nowadays. This project will try to compensate for these omissions.
+The top speed of cars is of course higher than that of bikes, but never reached. Regular modern <b>car navigation</b> takes maximum allowed speeds into account and delay because of traffic. However time to park and additional travel because of it is normally not taken into account, so it <b>is unrealistic taxi navigation</b>. What's also often not taken into account is that people on bicycles have a wider range of cruise speeds nowadays and can sometimes take little pedestrian shortcuts. This project will try to compensate for these omissions.
 
 Comparing isochrones ...
 ========================
