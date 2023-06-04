@@ -39,7 +39,6 @@ Towards implementation:
 
 Possible interested parties:
 ============================
-- beterbenutten.nl/regios/twente
 - https://www.tubantia.nl/enschede-e-o/goan-nieuwe-reisapp-voor-twente-regelt-vervoer-van-deur-tot-deur~a18f9f54/
 - https://www.bloomberg.com/news/features/2022-07-30/how-ai-is-giving-real-world-streets-a-virtual-makeover
 
