@@ -48,3 +48,5 @@ Other bike ideas:
 - Cycling supported by air pressure
 - Cargobike with shadow and solar energy
 - An ultralight body/tent around your bike to make it look like rediculous sized cars like for example a Ram Van or a F-150
+- https://www.facebook.com/people/2020-Virtual-Bike-Race/100067891359095/
+- 
