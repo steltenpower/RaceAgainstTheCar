@@ -26,7 +26,7 @@ The more your brain and body interacts with information, and the more it is conn
 
 If you can't win by bike yet
 ============================
-The fastest option might be walking into your homeoffice or garden with your notebook or VRglasses instead of going to an office altogether, but as both meeting people and biking is healthy exercise you could also combine it with taking a train. Shorter driving times are helped by less cars a lot more than by expensive extra car infrastructure, so either way vote for bike-friendly parties.
+The fastest option might be walking into your homeoffice or garden with your notebook or VRglasses instead of going to an office altogether, but as both meeting people and biking is healthy exercise you could also combine it with taking a train. Shorter driving times are helped by less cars a lot more than by expensive extra car infrastructure, so either way vote for bike-friendly parties. Oh, and as you quickly find out that on a bike, especially on an e-bike, your traveling time doesn't change much day to day, as it's mostly only cars delaying cars, it is more dependable thereby after a while making your more relaxed, less hurrying, maybe also in other contexts figuring out it's about the experience and time to think, not rat race.
 
 Towards implementation:
 =======================
@@ -38,6 +38,7 @@ Towards implementation:
 - [osmnx](https://osmnx.readthedocs.io/en/stable/)
 - [my isochrone question on GIS StackExchange](https://gis.stackexchange.com/questions/389494/how-to-osm-isochrone-center-transportmode-maxspeed-time-color-transparency)
 - https://medium.com/@Urbica.co/hello-galton-e6e07a7164b7#effa
+- Qgis on Jupyter
 
 Possible interested parties:
 ============================
@@ -51,4 +52,3 @@ Other bike ideas:
 - Cargobike with overhead solar panels providing shadow
 - An ultralight body/tent around your bike to make it look like rediculous sized cars like for example a Ram Van or a F-150
 - https://www.facebook.com/people/2020-Virtual-Bike-Race/100067891359095/
-- ...
