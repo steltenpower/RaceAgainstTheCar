@@ -19,7 +19,7 @@ Put such a static picture under the nose of drivers, especially where they mingl
 
 ... or Interactively
 ====================
-The more your brain and body interacts with information, and the more it is connected to face or place, the better it sticks. Maybe hook up the speed of a (hometrainer) bike to control the speed-dependent image? As long as you don't move the hometrainer bike a lot, within a certain speed you don't need to recalculate the image, so you don't much processing power, or a screen even (a stack of prints and someone to operate will do).
+The more your brain and body interacts with information, and the more it is connected to face or place, the better it sticks. Maybe hook up the speed of a (hometrainer) bike to control the speed-dependent image? As long as you don't move the hometrainer bike a lot, within a certain speed you don't need to recalculate the image, so you don't need much processing power, or a screen even (a stack of prints and someone to operate will do).
 
 
 If you can't win by bike yet
